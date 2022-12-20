@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
 <h1 align="center">Hi 👋, I'm Prajwal Deshpande</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif")
+(img align="right" alt="Coding" width="400" src="[https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif](https://tenor.com/search/coding-gifs)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalpd7&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalpd7" /> </p>
 
