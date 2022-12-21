@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Deshpande</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-![alt text](https://media.tenor.com/cX92mi1p-NYAAAAC/coding-anime.gif)
+<img alt="Animated GIF" src="(https://media.tenor.com/cX92mi1p-NYAAAAC/coding-anime.gif)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalpd7&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalpd7" /> </p>
 
