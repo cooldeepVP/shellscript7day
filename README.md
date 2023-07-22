@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
+[![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif)]
 <h1 align="center">Hi 👋, I'm Prajwal Deshpande</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="dork-is-Coding" width="400" src="https://media.tenor.com/t3nwL99XdtMAAAAC/dork-is-typing.gif">
