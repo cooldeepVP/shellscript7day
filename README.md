@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prajwalpp3@gmail.com**
 
-- ⚡ Fun fact **My computer never crashes, because I'm always there to catch it**
+- 🧩 Fun fact **I'm the type of guy who never reads the manual. Whether it's new tech or software, Why ruin the surprise when I can discover how things work on my own?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
